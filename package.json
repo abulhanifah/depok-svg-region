@@ -1,0 +1,21 @@
+{
+	"name": "@svg-maps/depok.regions",
+	"version": "1.1.1",
+	"description": "Map of Depok Regions, Indonesia",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/abulhanifah/depok-svg-region/tree/master"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"depok",
+		"regions"
+	],
+	"author": "Alir Retno <alirretno@gmail.com>",
+	"publishConfig": {
+		"access": "public"
+	},
+	"license": "CC-BY-NC-4.0"
+}
