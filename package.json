@@ -1,5 +1,5 @@
 {
-	"name": "@depok-svg-regions/depok.regions",
+	"name": "depok-svg-regions",
 	"version": "1.1.1",
 	"description": "Map of Depok Regions, Indonesia",
 	"main": "index.js",
